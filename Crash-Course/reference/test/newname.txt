@@ -1,0 +1,1 @@
+Hello written to the file using node js New Text appended to file 
